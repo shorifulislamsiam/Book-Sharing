@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283332584246",
+    "project_id": "booksharing2-f4e1f",
+    "storage_bucket": "booksharing2-f4e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283332584246:android:26f1a59c29ac0c33d74997",
+        "android_client_info": {
+          "package_name": "com.example.bookshairing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXOKzUyYES6OMk47v4kh2E4-FfElmZho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
